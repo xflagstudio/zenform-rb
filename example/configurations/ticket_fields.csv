@@ -1,0 +1,9 @@
+slug,title,type,visible_in_portal,editable_in_portal,required_in_portal,description,custom_field_options.names,custom_field_options.values
+field_category,Category,tagger,FALSE,FALSE,FALSE,,"[""Payment"",""Opinion""]","[""Payment"",""Opinion""]"
+field_order_id,Order ID,text,TRUE,TRUE,TRUE,,,
+field_platform,Platform,tagger,TRUE,TRUE,TRUE,,"[""App Store"",""Google Play Store"",""Amazon Appstore"",""3DS""]","[""App_Store"",""Google_Play_Store"",""Amazon_Appstore"",""3DS""]"
+field_nickname,Nickname,text,TRUE,TRUE,TRUE,,,
+field_user_id,User ID,text,TRUE,TRUE,TRUE,,,
+field_purchased_at,Purchased at,date,TRUE,TRUE,TRUE,,,
+field_age,Age,integer,TRUE,TRUE,FALSE,,,
+field_region,Region,tagger,TRUE,TRUE,FALSE,,"[""Africa"",""Americas"",""Asia"",""Europe"",""Oceania""]","[""Africa"",""Americas"",""Asia"",""Europe"",""Oceania""]"

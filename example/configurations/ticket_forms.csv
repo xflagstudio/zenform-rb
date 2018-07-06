@@ -1,0 +1,4 @@
+slug,name,position,end_user_visible,display_name,ticket_field_ids
+form_report,Report,3,FALSE,,"[""field_user_id"",""field_nickname"",""field_platform"",""field_purchased_at"",""field_order_id"",""field_age"",""field_region""]"
+form_payment_for_user,[For User] Payment,4,TRUE,Payment,"[""field_user_id"",""field_nickname"",""field_platform"",""field_purchased_at"",""field_order_id""]"
+form_opinion_for_user,[For User] Opinion,7,TRUE,Opinion,"[""field_user_id"",""field_nickname"",""field_age"",""field_region""]"
