@@ -1,0 +1,14 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+/zendesk_config/*
+
+# rspec failure tracking
+.rspec_status
+
+!.gitkeep
