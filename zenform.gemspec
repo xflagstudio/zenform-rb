@@ -5,12 +5,12 @@ require "zenform/version"
 Gem::Specification.new do |spec|
   spec.name          = "zenform"
   spec.version       = Zenform::VERSION
-  spec.authors       = ["upscent"]
-  spec.email         = ["upscent@gmail.com"]
+  spec.authors       = ["XFLAG Studio CRE Team"]
+  spec.email         = [""]
 
   spec.summary       = %q{CLI to manage Zendesk configuration for XFLAG Studio}
   spec.description   = %q{CLI to manage Zendesk configuration for XFLAG Studio}
-  spec.homepage      = "https://xflag.com/"
+  spec.homepage      = "https://career.xflag.com/"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
