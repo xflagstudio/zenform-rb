@@ -6,6 +6,9 @@ jobs:
   build:
     docker:
       - image: circleci/ruby:2.5-stretch-node
+        auth:
+          username: $DOCKERHUB_USERNAME
+          password: $DOCKERHUB_PASSWORD
     executor: ruby/default
     steps:
       - checkout
